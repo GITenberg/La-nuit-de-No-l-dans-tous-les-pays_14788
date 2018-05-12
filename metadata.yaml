@@ -1,0 +1,27 @@
+_repo: La-nuit-de-No-l-dans-tous-les-pays_14788
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chabot, Alphonse
+    gutenberg_agent_id: '5643'
+    url: http://www.gutenberg.org/2009/agents/5643
+description: ''
+gutenberg_bookshelf:
+- FR Peuples et Sociétés
+- Christmas
+gutenberg_issued: '2005-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14788'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GT'
+- !lcsh 'Christmas'
+title: La nuit de Noël dans tous les pays
+url: http://www.gutenberg.org/ebooks/14788
